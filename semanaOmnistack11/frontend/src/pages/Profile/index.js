@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from 'react';
+import React,{useEffect, useState} from 'react';
 import {Link, useHistory} from 'react-router-dom';
 import {FiPower,FiTrash2} from 'react-icons/fi';
 import './styles.css';
